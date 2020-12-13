@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+form h1 {
+    font-weight: 700;
+    color: rgb(31, 137, 236);
+}
+
+form label {
+    font-weight: bolder;
+    color: rgb(31, 137, 236);
+}
